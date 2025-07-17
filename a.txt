@@ -1,1 +1,4 @@
 배고프다.
+
+commit third 
+git push --set -upstream origin master
